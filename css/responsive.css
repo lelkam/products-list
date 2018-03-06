@@ -1,0 +1,12 @@
+@media (max-width: 992px) {
+    #main .product {
+        width: 47%;
+    }
+} 
+
+
+@media (max-width: 480px) {
+    #main .product {
+        width: 90%;
+    }
+} 
